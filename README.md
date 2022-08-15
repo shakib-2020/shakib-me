@@ -1,11 +1,5 @@
-# [ReactJS Portfolio](https://www.hernie-jabien.com)
 
-<img src="./public/img/Screenshot.png" />
-<br />
-<br />
-  
----
-Simple materialize portfolio built in ReactJS
+Simple  portfolio built in ReactJS
 ---
 
 This project was built using 
