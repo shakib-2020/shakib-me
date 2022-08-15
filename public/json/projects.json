@@ -1,0 +1,67 @@
+{
+    "projects": [{
+            "key": 1,
+            "name": "Amazon Clone with stripe payment intrigation",
+            "image": "img/projects/amazon.png",
+            "date": "2022",
+            "description": "E-commerce web application built with React.js & Express server.This is a clone version of Amazon.",
+            "features":[
+                "Add to cart,Checkout,Order history functionality.",
+                "User can visit products, add to wishlist or cart, order & can payment via Mastercard, Visa, China UnionPay (CUP), Discover & Diners etc.",
+                "Payment System intrigrated using Strip payment getways.",
+                "Stong Firebase Authentication.",
+                "Authorization and validation handled properly",
+                "Real Time Database of firebase used to make the Orders History Page.",
+                "All state are managed my React Context api."
+            ],
+            "github":"https://github.com/shakib-2020/amazon-clone",
+            "live":"https://sk-amazon-clone.herokuapp.com/"            
+        },
+        {
+            "key": 2,
+            "name": "My Personal Blog site",
+            "image": "img/projects/blog.png",
+            "date": "2020",
+            "description": "A fully responsive blog site is built using Bootstrap,Node,Express,MongooDB.",
+            "features":[
+                "Admin can register, login & logout which is managed by Passport Authentication.)",
+                "Admin dashboard implemented where admin can manages CRUD (create, read, update and delete) operations.",
+                "TinyMCE rich text editor gives admit's total control over post creation",
+                "Authorization and validation handled properly. General user can't visit admin related sections.",
+                "Admin can handle subscribe user by Mailchimp.",
+                "Dynamic 'Read more 'post generate."
+            ],
+            "github":"https://github.com/shakib-2020/Personal-blog-site",
+            "live":"https://safe-garden-44577.herokuapp.com/"         
+        },
+        {
+            "key": 3,
+            "name": "Keeper-TODO-App - a React application",
+            "image": "img/projects/todo.png",
+            "date": "2020",
+            "description": "A simple todo app is built using React-A JavaScript library for building user interfaces.\n I learn react by making this lovely project.",
+            "features":[
+                "User can create and delete a todo",
+                "Clean and attractive UI"
+            ],
+            "github":"https://github.com/shakib-2020/keeper-todoApp",
+            "live":"https://keeper-todo-app-eac7hwlmy-shakib-2020.vercel.app/"         
+        },
+        {
+            "key": 4,
+            "name": "Tindog-clone - a static site for pet owner's. Feature",
+            "image": "img/projects/tindog.png",
+            "date": "2020",
+            "description": "A website made with Bootstrap where user can find partner for there dog's.",
+            "features":[
+                "Fully Responsive",
+                "Clean and attractive UI",
+                "Spread love"
+            ],
+            "github":"https://github.com/shakib-2020/tindog-clone",
+            "live":"https://shakib-2020.github.io/tindog-clone/"         
+        }
+
+        
+    ]
+}
