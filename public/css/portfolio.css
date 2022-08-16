@@ -11,17 +11,24 @@ section{
 }
 .project-image > img{
     transition: transform .2s;
-    width: 25rem;
+    width: 90%;
     padding: 10px;
     margin: 9px auto;
     display: block;
 
 }
-.project-image > img:hover{
-    cursor:zoom-in;
-    transform: scale(1.3);
-    transform-origin: 50% 50%
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .project-image > img{
+        width: 70%;
+    }
+    .project-image > img:hover{
+        cursor:zoom-in;
+        transform: scale(1.3);
+        transform-origin: 50% 50%
+    }
 }
+
 .project-others{
     padding: 15px;
     padding-top: 0;
