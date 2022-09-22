@@ -4,21 +4,34 @@
             "name": "Amazon Clone with stripe payment intrigation",
             "image": "img/projects/amazon.png",
             "date": "2022",
-            "description": "E-commerce web application built with React.js & Express server.This is a clone version of Amazon.",
+            "description": "E-commerce web application built with React, Redux & Express server.This is a clone version of Amazon.",
             "features":[
                 "Add to cart,Checkout,Order history functionality.",
-                "User can visit products, add to wishlist or cart, order & can payment via Mastercard, Visa, China UnionPay (CUP), Discover & Diners etc.",
+                "All state are managed my Redux toolkit",
+                "User can visit products, add to wishlist or cart, order & can make payment",
                 "Payment System intrigrated using Strip payment getways.",
                 "Stong Firebase Authentication.",
                 "Authorization and validation handled properly",
-                "Real Time Database of firebase used to make the Orders History Page.",
-                "All state are managed my React Context api."
+                "Real Time Database of firebase used to make the Orders History Page."
             ],
             "github":"https://github.com/shakib-2020/amazon-clone",
             "live":"https://sk-amazon-clone.herokuapp.com/"            
         },
         {
             "key": 2,
+            "name": "Responsive website with Modern UI/UX in React with Tailwind.",
+            "image": "img/projects/hoobank.png",
+            "date": "2020",
+            "description": "A responsive React JS application consisting of a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, and more!",
+            "features":[
+                "Fully Responsive",
+                "Clean and attractive modern UI/UX"
+            ],
+            "github":"https://github.com/shakib-2020/HooBank",
+            "live":"https://hoo-bank-inky.vercel.app/"         
+        },
+        {
+            "key": 3,
             "name": "My Personal Blog site",
             "image": "img/projects/blog.png",
             "date": "2020",
@@ -35,7 +48,7 @@
             "live":"https://safe-garden-44577.herokuapp.com/"         
         },
         {
-            "key": 3,
+            "key": 4,
             "name": "Keeper-TODO-App - a React application",
             "image": "img/projects/todo.png",
             "date": "2020",
@@ -48,7 +61,7 @@
             "live":"https://keeper-todo-app-eac7hwlmy-shakib-2020.vercel.app/"         
         },
         {
-            "key": 4,
+            "key":5,
             "name": "Tindog-clone - a static site for pet owner's. Feature",
             "image": "img/projects/tindog.png",
             "date": "2020",

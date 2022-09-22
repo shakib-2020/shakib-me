@@ -65,15 +65,15 @@ function Home() {
             I'm <span className="font-weight-bold">Shakib</span>- a{" "}
             <span className="font-weight-bold">
               Frontend focused Fullstack Web Application Developer.
-            </span>
+            </span>{" "}
             My expertise is in the area of application development by{" "}
-            <span className="font-weight-bold">MERN stack.</span>With every line
-            of code,I strive to make the web a beautiful place.<br></br>Take a
-            look at my work and get in touch.
+            <span className="font-weight-bold">MERN stack. </span>With every
+            line of code,I strive to make the web a beautiful place.<br></br>
+            Take a look at my work and get in touch.
           </p>
           <br></br>
           <a
-            href="https://drive.google.com/file/d/1_WetFIuCO9mlTzZSEPz3DtrmAArwbIlB/view?usp=sharing"
+            href="https://drive.google.com/file/d/1uGnX1ifnn1-wVZc_0lWwqUlJAW_48vQ9/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-success m-2 font-weight-bold crv-25 px-3"

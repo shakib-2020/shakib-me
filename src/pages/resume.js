@@ -23,8 +23,8 @@ function Resume() {
                   <br />
                   <small className="font-weight-bold">Comfortable with:</small>
                   <p className="mt-2">
-                    Properly Google Searching, HTML, CSS,Sass Bootstrap,
-                    JavaScript, React, Redux.
+                    Properly Google Searching, HTML, CSS, Sass, Bootstrap,
+                    JavaScript, React, Redux, Tailwind CSS
                   </p>
                   <br />
                   <small className="font-weight-bold">Familiar with:</small>
